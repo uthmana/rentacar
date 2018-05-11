@@ -254,6 +254,39 @@ main {
 	font-size: .8rem;
 }
 
+.get_intouch{
+	margin-left:0;
+	margin-right: 0;
+	padding:0;
+}
+.adres_box{
+	width: 96%;
+	height: 180px;
+	margin: 0 auto;
+}
+
+.adrees_icon{
+	float: left;
+	width: 20%;
+	display: inline;
+	height: 100%;
+	padding: 5%;
+	
+}
+.footertext{
+	width: 80%;
+	padding-left: 10%;
+	display: inline;
+	 
+}
+.adrees_icon i {
+	font-size: 2.5rem;
+	color: green;
+}
+.adresParagraph{
+	margin-top: 10%;
+	font-size: 1.3em;
+}
 
 /*
 	responsive style sheet.
